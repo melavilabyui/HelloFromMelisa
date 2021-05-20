@@ -6,5 +6,7 @@ public class Main {
         hello.display();
         System.out.println(" ");
         System.out.println("HELLO FROM THEEERRRANNNNNNNN!!!");
+        HelloFromBrian brian = new HelloFromBrian();
+        brian.display();
     }
 }
