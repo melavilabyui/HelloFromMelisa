@@ -9,5 +9,6 @@ public class Main {
         HelloFromBrian brian = new HelloFromBrian();
         brian.display();
         System.out.println("Hi, this is just to see if this is working");
+        System.out.println("Hello team!! Thanks!");
     }
 }
