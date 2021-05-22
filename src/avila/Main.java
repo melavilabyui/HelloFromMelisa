@@ -8,5 +8,6 @@ public class Main {
         System.out.println("HELLO FROM THEEERRRANNNNNNNN!!!");
         HelloFromBrian brian = new HelloFromBrian();
         brian.display();
+        System.out.println("Hi, this is just to see if this is working");
     }
 }
